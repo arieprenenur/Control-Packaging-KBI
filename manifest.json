@@ -1,0 +1,21 @@
+{
+  "name": "Control Packaging",
+  "short_name": "Packaging",
+  "description": "Control dan Tracking Packaging",
+  "start_url": "https://script.google.com/macros/s/AKfycbydm0EIK5g2yiM8zjel6LU55gKUUK0A-Joz09f__-UMVhxa3bnv5OjMh6EUlWY4xrHH/exec",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1976d2",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
